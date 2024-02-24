@@ -1,0 +1,5 @@
+{
+  "taskMax" : 10,
+  "eventMax" : 12,
+  "weekLayout" : [ "FRIDAY", "SATURDAY" ]
+}

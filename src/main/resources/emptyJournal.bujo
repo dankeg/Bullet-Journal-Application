@@ -1,0 +1,13 @@
+{
+  "config" : {
+    "taskMax" : 1000,
+    "eventMax" : 1000,
+    "weekLayout" : [ "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY" ]
+  },
+  "events" : {
+    "events" : [ ]
+  },
+  "tasks" : {
+    "tasks" : [ ]
+  }
+}
